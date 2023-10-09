@@ -1,12 +1,12 @@
 <div align="center">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/github.webp">
-    <a href="https://www.jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Jayzhuoct&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/github.webp">
+    <a href="https://kuanghl.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+    <img src="https://komarev.com/ghpvc/?username=kuanghl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" alt="Lines of code" />
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/github.webp">
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/github.webp">
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/hr.gif" alt="hr.gif" />
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 <!-- knock code pictures 敲代码的图片 -->
     
-<img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/coding.gif" />
+<img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/coding.gif" />
 <br>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -26,18 +26,18 @@
     <td>
         <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake.svg" />
-          <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/profile-snake-contrib/github-contribution-grid-snake.svg" />
+          <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
         </picture>
     </td>
     <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayzhuoct&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuanghl&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
     </td>
   </tr>
 </table>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/hr.gif" alt="hr.gif" />
 </div>
 
 #  🙋 Hello
