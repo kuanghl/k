@@ -12,7 +12,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
     steps:
       # 基础信息（顺带了几个小插件）
       - name: base 
