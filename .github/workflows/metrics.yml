@@ -1,26 +1,24 @@
 # 此开源项目地址 https://github.com/lowlighter/metrics
 
 name: GitHub Metrics
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 18 * * *"}]
-  # (optional) Run workflow manually
+  schedule:
+    - cron: "0 18 * * *"
+    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
       # 基础信息（顺带了几个小插件）
-      - name: base 
-      - uses: lowlighter/metrics@latest
+      - name: base
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/base.svg
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           # Options
           user: kuanghl
           template: classic
@@ -42,7 +40,7 @@ jobs:
           plugin_starlists_only: Awesome
           # 此插件为文档中的 🌇GitHub 天际线
           # plugin_skyline: yes
-
+          
       # 📅 Isometric commit calendar
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
@@ -217,6 +215,9 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
       # 🌇GitHub 天际线
+      
+
+
 
 
 
