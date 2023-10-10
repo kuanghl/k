@@ -363,11 +363,14 @@ mindmap
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-<!-- metrics 基础资料 -->
-<img hight="100%" src="/github-metrics/base.svg" />
+
 
 <!-- 表格 -->
 <table>
+  <tr>
+    <!-- metrics 基础资料 -->
+    <td colspan ="2"> <img hight="100%" src="/github-metrics/base.svg" /></td>
+  </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
