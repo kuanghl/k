@@ -182,7 +182,7 @@
         <!-- Wakatime Graph-->
         <td>
             <div align="center">
-            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cxyduck.gif" />
+            <img width="150" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/cxyduck.gif" />
             </div>
         </td>
         <td>
@@ -195,17 +195,20 @@
         </td>
         <td>
             <div align="center">
-            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cxyduck.gif" />
+            <img width="150" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/cxyduck.gif" />
             </div>
         </td>
     </tr>
 </table>
 
 <!--START_SECTION:waka-->
+<div align="center">
+  <a herf="https://open.spotify.com/user/omnitenebris"><img width="75%" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+</div>
 <!--END_SECTION:waka-->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/hr.gif" />
 
 # 📖 knowledge map
 <div align="center" >
@@ -299,25 +302,25 @@ mindmap
 ```
 
 <!-- man 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/hr.gif" />
 
 <div align="center">
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 <table class="no-border">
     <tr>
         <td>
             <!-- Joke 笑话 -->
-            <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FFFFFF" alt="Jokes Card" />
+            <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
         </td>
         <td>
             <!-- Quotes 名人名言 -->
-            <img src="https://quotes-github-readme.vercel.app/api?theme=light" />
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
         </td>
     </tr>
 </table>
@@ -326,63 +329,63 @@ mindmap
 <table>
     <tr>
         <td>
-            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/left.png" />
+            <img width="150" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/left.png" />
         </td>
         <td>
-           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzhuoct&theme=dark&hide_border=true" />
+           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuanghl&theme=dark&hide_border=true" />
         </td>
         <td>
-            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/right.png" />
+            <img width="150" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/right.png" />
         </td>
     </tr>
 </table>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/hr.gif" alt="hr.gif" />
 
 # 🧑🏻‍💻 GitHub
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- metrics 基础资料 -->
-<img src="/github-metrics/base.svg" />
+<img hight="100%" src="/github-metrics/base.svg" />
 
 <!-- 表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <!-- profile-3d-contrib 3D贡献图-->
-![contrib](https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-3d-contrib/profile-night-view.svg)
+![contrib](https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/profile-3d-contrib/profile-night-view.svg)
 
 <!-- skyline 图片 -->
 
 <!-- icon 图片 -->
-![icon](https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/icon.png)
+![icon](https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/icon.png)
 
 <!-- rocket 图片 -->
-![rocket](https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/rocket.png)
+![rocket](https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/rocket.png)
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/hr.gif" alt="hr.gif" />
