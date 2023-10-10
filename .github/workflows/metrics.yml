@@ -6,6 +6,11 @@ on:
     - cron: "0 18 * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
+
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
   
 jobs:
   github-metrics:
