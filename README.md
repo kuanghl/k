@@ -46,8 +46,7 @@
 <table>
     <tr>
         <td>
-            <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=1000&pause=100&color=02080B&background=FFFFFF&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E9%94%99%E8%AF%AF%E7%9A%84&height=250&lines=%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDexter;%E7%88%B1%E5%A5%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%92%8CIT%E4%BA%92%E8%81%94%E7%BD%91;%E5%8A%B1%E5%BF%97%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E4%BC%98%E7%A7%80%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E8%AE%A9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%8F%98%E5%BE%97%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD;%E9%80%9A%E8%BF%87%E4%BB%A3%E7%A0%81%E7%9A%84%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E5%92%8C%E5%BB%B6%E5%B1%95%E6%9E%84%E5%BB%BA%E5%AE%8C%E7%BE%8E%E4%BD%93%E7%B3%BB;We're+making+the+world+a+better+place;Through+constructing+elegant+hierarchies+;for+maximum+code+reuse+and+extensibility" alt="Typing SVG" />
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=093BF7&multiline=true&width=800&height=260&lines=%E2%98%91+Kuanghl+profiling.;%E2%98%91+Born+in+zengcheng+in+1998%2C+a+qingyuan+people.;%E2%98%91+Graduated+from+JiNan+University(JNU)+20170909~2021-06-30.;%E2%98%91+Sports+interests+badminton%2C+table+tennis%2C+swimming%2C+running%2C;%7F%7F%7Fmountaineering%2C+racing.;%E2%98%91+Engaged+in+embedded+hardware+and+software+development.;%E2%98%91+Hardware+work+areas+GPU%2FSOC%2FMCU%2FMPU%2FFPGA%2FDSP.;%E2%98%91+Software+work+areas+Windows%2FLinux%2FVxWorks%2FRTOS.;%E2%98%91+Protocol+stack+TCP%2FIP%2FPCIE%2FIIC%2FSPI%2FUART%2FJTAG%2FOn-Chip+Bus.;%E2%98%91+Use+env+..." alt="Typing SVG" /></a>
             </a>
         </td>
         <!-- Github-Stats-Terminal 终端风格信息 -->
