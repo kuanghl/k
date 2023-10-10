@@ -52,21 +52,21 @@
         <!-- Github-Stats-Terminal 终端风格信息 -->
         <td>
             <div align="center">
-                <img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
+                <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kuanghl?cardType=level-alternate&theme=algolia&preferLogin=true&Ring=DD2727&Border=13DD57&Text=DD2727"/>
             </div>
         </td>
     </tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/assets/images/hr.gif" />
 
 <div align="center" >
     <!-- GitHub 奖杯🏆 -->
-    <img  src="https://github-profile-trophy.vercel.app/?username=Jayzhuoct&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+    <img  src="https://github-profile-trophy.vercel.app/?username=kuanghl&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
     <!-- GitHub 数据统计 -->
-    <img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api?username=Jayzhuoct&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-    <img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=Jayzhuoct&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+    <img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api?username=kuanghl&rank_icon=github&theme=radical&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+    <img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=kuanghl&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -163,14 +163,14 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/kuanghl//assets/images/hr.gif" />
 
 # 📊WakaTime
 <table>
     <tr>
         <td>
             <!-- wakatime 统计 -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kuanghl&layout=compact">
         </td>
         <td>
             <div align="center">
