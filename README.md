@@ -185,7 +185,7 @@
     <tr>
         <td>
             <!-- wakatime 统计 -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kuanghl&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kaunghl&layout=compact">
         </td>
         <td>
             <div align="center">
@@ -201,12 +201,12 @@
             </div>
         </td>
         <td>
-            <img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/>
+            <img src="https://wakatime.com/share/@kaunghl/778cf1d4-8343-4f5a-80a7-969dbeee75c9.svg"" width="500" alt="Wakatime"/>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/>
+            <img src="https://wakatime.com/share/@kaunghl/3a03b016-e396-4bf9-b2b9-39d584066eb3.svg" width="500" alt="Wakatime"/>
         </td>
         <td>
             <div align="center">
@@ -438,23 +438,23 @@ mindmap
     <td colspan ="2"> <img hight="100%" src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/base.svg" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/k/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/k/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/k/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/k/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/k/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/k/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/k/github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/k/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/kuanghl/kuanghl/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
