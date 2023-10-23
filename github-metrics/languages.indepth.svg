@@ -16,16 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.27bb of code in 187701 edited files across 138 commits</small>
+                <small>estimation from 239mb of code in 12808 edited files across 108 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.19947115760732" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="178.19947115760732" y="0" width="126.65400781272497" height="8" fill="#185619"/>
-                    <rect mask="url(#languages-bar)" x="304.85347897033233" y="0" width="97.33523526526685" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="402.18871423559915" y="0" width="57.81128576440086" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.278011918563" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.278011918563" y="0" width="1.1298596059972783" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.4078715245602" y="0" width="0.5921284754397733" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +36,8 @@
                                 C
                             </div>
                             <small>
-                                <div>21.4m lines</div>
-                                <div>578 MB</div>
+                                <div>50.4k lines</div>
+                                <div>1.54 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,8 +48,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>7.78m lines</div>
-                                <div>316 MB</div>
+                                <div>95 lines</div>
+                                <div>1.99 kB</div>
                             </small>
                         </div>
                     </section>
@@ -58,25 +57,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#185619" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                LLVM
+                                M4
                             </div>
                             <small>
-                                <div>8.81m lines</div>
-                                <div>411 MB</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Assembly
-                            </div>
-                            <small>
-                                <div>3.96m lines</div>
-                                <div>187 MB</div>
+                                <div>149 lines</div>
+                                <div>3.80 kB</div>
                             </small>
                         </div>
                     </section>
